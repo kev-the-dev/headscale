@@ -5,7 +5,7 @@ import (
 
 	survey "github.com/AlecAivazis/survey/v2"
 	"github.com/juanfont/headscale"
-	v1 "github.com/juanfont/headscale/gen/go/headscale/v1"
+	v1 "github.com/juanfont/headscale/apigen/go/headscale/v1"
 	"github.com/pterm/pterm"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
