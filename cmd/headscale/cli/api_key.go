@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/juanfont/headscale"
-	v1 "github.com/juanfont/headscale/gen/go/headscale/v1"
+	v1 "github.com/juanfont/headscale/apigen/go/headscale/v1"
 	"github.com/prometheus/common/model"
 	"github.com/pterm/pterm"
 	"github.com/rs/zerolog/log"

@@ -9,7 +9,7 @@ import (
 	"github.com/rs/zerolog/log"
 )
 
-//go:embed gen/openapiv2/headscale/v1/headscale.swagger.json
+//go:embed openapiv2/headscale/v1/headscale.swagger.json
 var apiV1JSON []byte
 
 func SwaggerUI(
